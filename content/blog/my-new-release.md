@@ -3,9 +3,7 @@ title: my new release
 date: '2020-06-10T09:12:53+02:00'
 author: rainer
 ---
-
-
-* What is the core team's current objectives?
+* Hello World
 * What was accomplished in the last week?
 * What's next for the core team?
 * Link to any relevant projects
@@ -14,9 +12,19 @@ author: rainer
 
 ### New Packages
 
+* abc sdf
+
 ### Features
 
+* my new stuff
+
 ### Bug Fixes
+
+| header1 | header2 | header3 |
+| --- | --- | --- |
+| line1 | line1 | line1 |
+| line2 | line2 | line2 |
+| another3 | another3 |  |
 
 ### Deprecations
 
@@ -26,10 +34,10 @@ Thanks to everyone for contributing!
 
 | # Commits | Name |
 | --- | --- |
-| | |
-| | |
-| | |
-| | |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 ## GitHub Milestones
 
